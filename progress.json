@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-10-04T15:20:54.840Z",
+  "items": {
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-06-29T06:14:25.935Z",
+      "last_pushed_at": "2026-06-29T06:14:25.935Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-06-29T08:42:35.436Z",
+      "last_pushed_at": "2026-06-29T08:42:35.436Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-06-29T09:50:02.436Z",
+      "last_pushed_at": "2026-06-29T09:50:02.436Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-06-29T10:22:10.001Z",
+      "last_pushed_at": "2026-06-29T10:22:10.001Z",
+      "language": "python",
+      "lines": 31
+    }
+  }
+}
