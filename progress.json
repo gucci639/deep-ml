@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:20:54.840Z",
+  "generated_at": "2026-10-04T15:20:57.009Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -52,6 +52,45 @@
       "last_pushed_at": "2026-06-29T10:22:10.001Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-06-30T02:19:00.338Z",
+      "last_pushed_at": "2026-06-30T02:19:00.338Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-06-30T05:13:09.488Z",
+      "last_pushed_at": "2026-06-30T05:13:09.488Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-06-30T11:47:57.093Z",
+      "last_pushed_at": "2026-06-30T11:47:57.093Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
