@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:20:57.009Z",
+  "generated_at": "2026-10-04T15:20:58.834Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -91,6 +91,58 @@
       "last_pushed_at": "2026-06-30T11:47:57.093Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-07-01T10:05:27.489Z",
+      "last_pushed_at": "2026-07-01T10:05:27.489Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-07-01T10:20:17.267Z",
+      "last_pushed_at": "2026-07-01T10:20:17.267Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-07-01T12:41:24.887Z",
+      "last_pushed_at": "2026-07-01T12:41:24.887Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-07-01T16:02:20.933Z",
+      "last_pushed_at": "2026-07-01T16:02:20.933Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
