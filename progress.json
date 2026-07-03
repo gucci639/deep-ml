@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:21:00.696Z",
+  "generated_at": "2026-10-04T15:21:02.253Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -156,6 +156,32 @@
       "last_pushed_at": "2026-07-02T18:12:18.118Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:313": {
+      "kind": "problem",
+      "id": "313",
+      "title": "Numerical Gradient Checking",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/313",
+      "path": "problems/0313-numerical-gradient-checking",
+      "first_solved_at": "2026-07-03T16:36:32.630Z",
+      "last_pushed_at": "2026-07-03T16:36:32.630Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2026-07-03T18:30:56.222Z",
+      "last_pushed_at": "2026-07-03T18:30:56.222Z",
+      "language": "python",
+      "lines": 56
     }
   }
 }
