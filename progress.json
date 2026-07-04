@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:21:02.253Z",
+  "generated_at": "2026-10-04T15:21:04.277Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -182,6 +182,58 @@
       "last_pushed_at": "2026-07-03T18:30:56.222Z",
       "language": "python",
       "lines": 56
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-07-04T06:08:40.625Z",
+      "last_pushed_at": "2026-07-04T06:08:40.625Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-07-04T07:28:45.847Z",
+      "last_pushed_at": "2026-07-04T07:28:45.847Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:310": {
+      "kind": "problem",
+      "id": "310",
+      "title": "Taylor Series Approximation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/310",
+      "path": "problems/0310-taylor-series-approximation",
+      "first_solved_at": "2026-07-04T11:55:19.976Z",
+      "last_pushed_at": "2026-07-04T11:55:19.976Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-07-04T21:59:42.113Z",
+      "last_pushed_at": "2026-07-04T21:59:42.113Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
