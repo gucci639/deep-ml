@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**22** solved · 22 problems · 0 labs · 0 math
+**24** solved · 22 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-06-29 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-06-29 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-07-02 | [solution](problems/0025-single-neuron-with-backpropagation) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-07-08 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
+| [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-07-08 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ---
 
