@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:21:13.081Z",
+  "generated_at": "2026-10-04T15:21:14.751Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -325,6 +325,58 @@
       "last_pushed_at": "2026-07-09T16:51:13.265Z",
       "language": "python",
       "lines": 92
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-07-10T10:40:54.829Z",
+      "last_pushed_at": "2026-07-10T10:40:54.829Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-07-10T10:43:09.433Z",
+      "last_pushed_at": "2026-07-10T10:43:09.433Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-07-10T10:49:23.353Z",
+      "last_pushed_at": "2026-07-10T10:49:23.353Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-07-10T10:59:39.080Z",
+      "last_pushed_at": "2026-07-10T10:59:39.080Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
