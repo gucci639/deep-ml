@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**29** solved · 26 problems · 3 labs · 0 math
+**30** solved · 27 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-07-01 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-01 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-01 | [solution](problems/0219-derivative-of-softmax) |
+| [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-07-12 | [solution](problems/0327-engram-context-aware-gating) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-07-05 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-07-04 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-07-03 | [solution](problems/0026-implementing-basic-autograd-operations) |
