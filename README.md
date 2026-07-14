@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**31** solved · 28 problems · 3 labs · 0 math
+**32** solved · 29 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-07-04 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-07-04 | [solution](problems/0146-momentum-optimizer) |
 | [Taylor Series Approximation](https://www.deep-ml.com/problems/310) | easy | 2026-07-04 | [solution](problems/0310-taylor-series-approximation) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-07-14 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-07-10 | [solution](problems/0121-vector-element-wise-sum) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-06-30 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-07-06 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
