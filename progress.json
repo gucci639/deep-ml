@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:21:23.871Z",
+  "generated_at": "2026-10-04T15:21:25.635Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -468,6 +468,32 @@
       "last_pushed_at": "2026-07-16T09:14:12.028Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-07-17T03:44:35.329Z",
+      "last_pushed_at": "2026-07-17T03:44:35.329Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-07-17T08:30:51.363Z",
+      "last_pushed_at": "2026-07-17T08:30:51.363Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
