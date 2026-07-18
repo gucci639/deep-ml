@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**38** solved · 35 problems · 3 labs · 0 math
+**39** solved · 36 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-10 | [solution](problems/0083-dot-product-calculator) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-06-29 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-07-04 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-07-18 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-15 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-07-04 | [solution](problems/0146-momentum-optimizer) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-07-15 | [solution](problems/0003-reshape-matrix) |
