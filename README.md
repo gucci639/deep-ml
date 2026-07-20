@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**41** solved · 38 problems · 3 labs · 0 math
+**44** solved · 41 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-07-19 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-07-10 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-07-17 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-07-20 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-07-10 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-07-17 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-06-29 | [solution](problems/0116-derivative-of-a-polynomial) |
@@ -33,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-07-14 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-07-10 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-07-19 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-06-30 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-07-06 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-07-01 | [solution](problems/0218-compute-the-hessian-matrix) |
@@ -45,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-07-03 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-06-30 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-07-07 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
+| [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-07-20 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-07-16 | [solution](problems/0009-matrix-times-matrix) |
 | [Newton's Method for Optimization](https://www.deep-ml.com/problems/221) | medium | 2026-07-06 | [solution](problems/0221-newton-s-method-for-optimization) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-07-03 | [solution](problems/0313-numerical-gradient-checking) |

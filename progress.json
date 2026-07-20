@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:21:28.956Z",
+  "generated_at": "2026-10-04T15:21:30.526Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -533,6 +533,45 @@
       "last_pushed_at": "2026-07-19T11:09:18.096Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-07-20T05:47:03.436Z",
+      "last_pushed_at": "2026-07-20T05:47:03.436Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-07-20T05:53:25.983Z",
+      "last_pushed_at": "2026-07-20T05:53:25.983Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-07-20T06:55:11.433Z",
+      "last_pushed_at": "2026-07-20T06:55:11.433Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
