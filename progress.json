@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:21:35.829Z",
+  "generated_at": "2026-10-04T15:21:37.487Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -611,6 +611,32 @@
       "last_pushed_at": "2026-07-23T08:21:47.580Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2026-07-24T05:46:08.739Z",
+      "last_pushed_at": "2026-07-24T05:46:08.739Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-07-24T10:05:09.481Z",
+      "last_pushed_at": "2026-07-24T10:05:09.481Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
