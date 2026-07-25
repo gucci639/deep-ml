@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**49** solved · 46 problems · 3 labs · 0 math
+**50** solved · 47 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-20 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-06-30 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-07-06 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
+| [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-25 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-07-01 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-07-13 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-01 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
