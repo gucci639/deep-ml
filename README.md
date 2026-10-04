@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Calculus (9/9)
 
-**50** solved · 47 problems · 3 labs · 0 math
+**51** solved · 48 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-07-01 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-10 | [solution](problems/0083-dot-product-calculator) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-06-29 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-10-04 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-07-24 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-07-04 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-07-18 | [solution](problems/0195-matrix-determinant-trace) |
