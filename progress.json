@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:17:08.304Z",
+  "generated_at": "2026-10-19T16:54:36.857Z",
   "items": {
     "problem:116": {
       "kind": "problem",
@@ -752,6 +752,19 @@
       "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
       "first_solved_at": "2026-10-18T16:17:07.143Z",
       "last_pushed_at": "2026-10-18T16:17:07.143Z"
+    },
+    "problem:354": {
+      "kind": "problem",
+      "id": "354",
+      "title": "Handle Missing Data with Imputation",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/354",
+      "path": "problems/0354-handle-missing-data-with-imputation",
+      "first_solved_at": "2026-10-19T16:54:36.097Z",
+      "last_pushed_at": "2026-10-19T16:54:36.097Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
